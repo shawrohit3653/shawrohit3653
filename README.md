@@ -5,7 +5,6 @@
 📧 shawrohit3653@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-shaw-a5aaa41b6/) | [GitHub](https://github.com/shawrohit3653)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawrohit3653" alt="shawrohit3653" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
