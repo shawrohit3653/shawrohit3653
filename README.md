@@ -6,6 +6,8 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/rohit-shaw-a5aaa41b6/) | [GitHub](https://github.com/shawrohit3653)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shawrohit3653" alt="shawrohit3653" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🔭 I’m currently working on [LiveTrainStatus](https://shawrohit3653.github.io/LiveTrainStatus/)
 
@@ -14,7 +16,6 @@
 - 👯 I’m looking to collaborate on [ExpenseTracker](https://shawrohit3653.github.io/ExpenseTracker/)
 
 - 💬 Ask me about **react**
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-shaw-a5aaa41b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-shaw-a5aaa41b6/" height="30" width="40" /></a>
